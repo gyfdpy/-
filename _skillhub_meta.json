@@ -1,0 +1,9 @@
+{
+  "name": "技能汉化官",
+  "installedAt": 1795145126577,
+  "source": "local",
+  "version": "1.0.0",
+  "description_zh": "把英文技能汉化：中文大标题+中文描述+中文触发条件。先看方案再改，安全不破坏技能。",
+  "description_en": "Localize English skills into Chinese with display name, description and triggers.",
+  "iconSource": "letter:auto"
+}
